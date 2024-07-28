@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## Usage
 
 - Run the GUI application: python sentiment_analysis_gui.py
-- Load Data: Use the interface to load your dataset from a CSV file.
+- Load Data: Use the interface to load the dataset from a CSV file.
 - Preprocess Data: Enter the name of the text column and preprocess the text data.
 - Train and Evaluate Model: Enter the name of the label column, train the model, and visualize the confusion matrix.
 
